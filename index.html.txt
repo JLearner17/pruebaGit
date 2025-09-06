@@ -9,8 +9,6 @@
    <div class = "holaMundo">
       <h1>Hola mundo</h1>
    </div>
-   <div class = "holaMundo">
-      <h1>Hola mundo</h1>
-   </div>
+
 </body>
 </html>
