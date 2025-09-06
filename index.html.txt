@@ -8,6 +8,7 @@
 <body>
    <div class = "holaMundo">
       <h1>Hola mundo</h1>
+      <p>parrafo</p>
    </div>
 
 </body>
